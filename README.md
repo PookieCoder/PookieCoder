@@ -52,6 +52,6 @@ I'm a passionate *Full Stack Developer* and tech enthusiast who loves creating c
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pookiecoder20?igsh=MXBnNGRrNWpjYXVleg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@YourChannelHere)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/@YourChannelHere](https://youtube.com/@pookie_coder_019?si=SaMJv8rq2Kitrz6X))
 
 ![snake gif](https://github.com/PookieCoder/PookerCoder/blob/output/github-contribution-grid-snake.gif)
